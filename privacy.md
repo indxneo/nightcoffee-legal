@@ -39,4 +39,4 @@ If this policy changes, we'll update this page and the date at the top. Every ch
 
 ## Contact
 
-Questions about this policy: [open an issue](https://github.com/indxneo/nightcoffee-legal/issues) in this repository.
+Questions about this policy: email [alishersv.dev@outlook.com](mailto:alishersv.dev@outlook.com).

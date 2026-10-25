@@ -9,7 +9,7 @@ Night Coffee is a story game for iPhone: seven nights behind the counter at Nigh
 
 ## Getting help
 
-Found a problem, or have a question? [Open an issue](https://github.com/indxneo/nightcoffee-legal/issues) and tell us your iPhone model, your iOS version and what happened. A screenshot helps.
+Found a problem, or have a question? Email [alishersv.dev@outlook.com](mailto:alishersv.dev@outlook.com) and tell us your iPhone model, your iOS version and what happened. A screenshot helps. If you have a GitHub account, you can also [open an issue](https://github.com/indxneo/nightcoffee-legal/issues).
 
 ## Common questions
 
