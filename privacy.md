@@ -5,11 +5,11 @@ permalink: /privacy/
 
 # Night Coffee Privacy Policy
 
-**Effective October 24, 2026**
+**Effective October 26, 2026**
 
 Night Coffee is a story game for iPhone made by Alisher Serikbayev, who publishes as indxneo ("we" below).
 
-**The short version: Night Coffee doesn't collect any information about you.** It has no accounts, no ads, no analytics and no tracking, and it doesn't send anything over the internet.
+**The short version: Night Coffee doesn't collect any information about you.** It has no accounts, no ads, no analytics and no tracking, and it doesn't send anything over the internet itself. The one purchase goes through the App Store on your iPhone.
 
 ## What stays on your iPhone
 
@@ -23,7 +23,7 @@ We don't collect your name, email address, contacts, location, photos, files, de
 
 ## Purchases
 
-If Night Coffee offers a purchase, Apple handles the payment through the App Store. We never receive your payment details. Apple only tells the app whether the purchase was made, so the app can unlock it.
+Night 1 is free, and one purchase in the app unlocks the rest of the week. Apple handles the payment through the App Store; we never receive your name, Apple Account or payment details. The app only asks your iPhone's App Store whether the purchase was made (when you buy, when you tap Restore, and when the game starts), and keeps a note on your iPhone that the week is unlocked.
 
 ## Apple's services
 
