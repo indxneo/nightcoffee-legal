@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # Night Coffee Privacy Policy
 
-**Effective October 26, 2026**
+**Effective November 12, 2026**
 
 Night Coffee is a story game for iPhone made by Alisher Serikbayev, who publishes as indxneo ("we" below).
 
@@ -13,13 +13,17 @@ Night Coffee is a story game for iPhone made by Alisher Serikbayev, who publishe
 
 ## What stays on your iPhone
 
-The game saves your progress (the night you're on and the choices you've made), your settings (such as text size, sound and language) and the radio's state in the app's own storage on your iPhone. None of it leaves your iPhone through Night Coffee, and we can't see it. Deleting the app deletes it.
+The game saves your progress (the night you're on, the choices you've made and the chapters you've reached), your settings (such as text size, sound and language) and the radio's state in the app's own storage on your iPhone. None of it leaves your iPhone through Night Coffee, and we can't see it. Deleting the app deletes it. Your purchase isn't lost that way: it belongs to your Apple Account, and Restore purchase brings it back.
 
 Like other apps' data, iOS may include it in your iPhone's own backups (iCloud or a computer). Those backups are covered by Apple's privacy policy.
 
 ## What we don't collect
 
 We don't collect your name, email address, contacts, location, photos, files, device identifiers, usage data or crash data. Night Coffee never asks for access to your camera, microphone, photos, contacts or location.
+
+## Links in the game
+
+The game's Credits screen has two buttons, Privacy policy and Support, that open this page and the support page in Safari. Nothing is sent unless you tap one, and the game itself sends nothing even then. These pages are hosted by GitHub Pages, which may keep a record of visits under [GitHub's privacy statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
 
 ## Purchases
 
